@@ -1,2 +1,2 @@
-# animal-crossing-villager-popularity
-Analyzing popularity of animal crossing villagers
+# Using Python to analyze Animal Crossing Villager Dataset
+
