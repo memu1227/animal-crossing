@@ -2,8 +2,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-#import the villager file
-data = pd.read_csv("villagers.csv")
+#scrape the villagers list from nookipedia website
+
+
 #print(data)
 
 #look at the contents of the data 
